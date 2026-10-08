@@ -48,10 +48,7 @@ API integration layer and error states.
 ---
 
 ## Screenshots
-
-
-
-| ![mobile](<img width="366" height="665" alt="image" src="https://github.com/user-attachments/assets/6f514ede-a7d8-4633-8103-13cc553c9968" /> <img width="357" height="767" alt="image" src="https://github.com/user-attachments/assets/916c7856-1bb9-4584-91bd-3c144cea99b3" />
+(<img width="366" height="665" alt="image" src="https://github.com/user-attachments/assets/6f514ede-a7d8-4633-8103-13cc553c9968" /> <img width="357" height="767" alt="image" src="https://github.com/user-attachments/assets/916c7856-1bb9-4584-91bd-3c144cea99b3" />
 
 ---
 
