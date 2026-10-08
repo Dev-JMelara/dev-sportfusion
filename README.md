@@ -32,39 +32,26 @@ app backed by a PHP + MySQL REST API.
 
 | Component | Stack | Repo |
 |---|---|---|
-| Mobile client | React Native, JavaScript | [link](https://github.com/...) |
-| Web API | PHP, MySQL | [link](https://github.com/...) |
-| [Admin / other part] | [stack] | [link](https://github.com/...) |
+| Mobile client | React Native, JavaScript | [link](https://github.com/Dev-JMelara/SportsFusion_Android-app.git) |
+| Web API | PHP | [link](https://github.com/Dev-JMelara/SportFusion.git) |
+| [Database] | MySQL | [link](https://github.com/Dev-JMelara/SportsFusion-DB.git) |
 
 ---
 
 ## My contribution
 
-[Pick ONE of these framings and be specific:]
-
-<!-- If you mainly did the API -->
-I designed and built the PHP REST API — endpoint structure, request
-validation, and the MySQL queries backing product listing and order
-creation. I also handled session-based authentication for the mobile client.
-
-<!-- If you mainly did mobile -->
 I built the React Native mobile client — product browsing, cart state,
 and the checkout flow that consumes the REST API. I also handled the
 API integration layer and error states.
 
-<!-- If you did a mix -->
-I worked across the stack: [X] on the mobile client, [Y] on the API,
-and [Z] on integration between the two.
 
 ---
 
 ## Screenshots
 
-<!-- Add 2-3 images here. Mobile app + API response + maybe a schema diagram -->
 
-| Mobile | API | Database |
-|---|---|---|
-| ![mobile](docs/mobile.png) | ![api](docs/api.png) | ![schema](docs/schema.png) |
+
+| ![mobile](<img width="366" height="665" alt="image" src="https://github.com/user-attachments/assets/6f514ede-a7d8-4633-8103-13cc553c9968" /> <img width="357" height="767" alt="image" src="https://github.com/user-attachments/assets/916c7856-1bb9-4584-91bd-3c144cea99b3" />
 
 ---
 
@@ -73,7 +60,6 @@ and [Z] on integration between the two.
 - **Frontend:** React Native, JavaScript
 - **Backend:** PHP, REST
 - **Database:** MySQL
-- **Auth:** [session-based / JWT / whatever you used]
 
 ---
 
@@ -87,6 +73,7 @@ this repo consolidates the architecture for portfolio purposes.
 
 ## Links
 
-- Mobile: [repo URL]
-- API: [repo URL]
-- [Other]: [repo URL]
+- Mobile: [link](https://github.com/Dev-JMelara/SportsFusion_Android-app.git)
+- API: [link](https://github.com/Dev-JMelara/SportFusion.git)
+- Database: [link](https://github.com/Dev-JMelara/SportsFusion-DB.git)
+
